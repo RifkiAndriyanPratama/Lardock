@@ -26,6 +26,6 @@
             </div>
         </form>
         <p class="text-center text-gray-500 text-xs">
-            &copy;2020 Rifki Corp. All rights reserved.
+            &copy;2025 Rifki Corp. All rights reserved.
         </p>
 @endsection
